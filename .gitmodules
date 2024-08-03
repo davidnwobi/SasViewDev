@@ -1,0 +1,12 @@
+[submodule "sasview"]
+	path = sasview
+	url = https://github.com/davidnwobi/sasview.git
+[submodule "sasmodels"]
+	path = sasmodels
+	url = https://github.com/davidnwobi/sasmodels.git
+[submodule "sasdata"]
+	path = sasdata
+	url = https://github.com/davidnwobi/sasdata.git
+[submodule "TunedQuad"]
+	path = TunedQuad
+	url = https://github.com/davidnwobi/TunedQuad.git
